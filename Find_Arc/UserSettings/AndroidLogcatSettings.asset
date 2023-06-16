@@ -1,0 +1,205 @@
+{
+    "m_SelectedDeviceId": "R3CMB06FYAK",
+    "m_SelectedPackage": {
+        "deviceId": "R3CMB06FYAK",
+        "name": "com.JJCOM.AR",
+        "processId": 20759,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 32332,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 10378,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 13351,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 29063,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.android.settings",
+            "processId": 7657,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 8859,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 9075,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 10156,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 11034,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 13223,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 2783,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 10861,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 12146,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 14108,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 19791,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 17275,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 24039,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 10425,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 17901,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 19242,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CMB06FYAK",
+            "name": "com.JJCOM.AR",
+            "processId": 20759,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}

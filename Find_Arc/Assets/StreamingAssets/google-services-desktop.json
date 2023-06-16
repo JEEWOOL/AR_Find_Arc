@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140279689045",
+    "project_id": "arrrr-c617e",
+    "storage_bucket": "arrrr-c617e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140279689045:android:c6d098745852c0ddbac9dc",
+        "android_client_info": {
+          "package_name": "com.JJCOM.AR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140279689045-11gn6i0v35707t60n57kelgsrvkm8li5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClyDbIzFS5p8Vld--PQLPeMO2ZJafvNSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140279689045-11gn6i0v35707t60n57kelgsrvkm8li5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
